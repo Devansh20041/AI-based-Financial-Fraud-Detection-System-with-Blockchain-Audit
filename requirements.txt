@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+fastapi
+uvicorn[standard]
+plotly
+xgboost
+imbalanced-learn
+streamlit
+python-dotenv
+requests

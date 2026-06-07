@@ -1,0 +1,1972 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-04-30 20:03:12",
+    "transactions": [
+      {
+        "message": "VaultSense Genesis Block"
+      }
+    ],
+    "previous_hash": "0",
+    "nonce": 112,
+    "hash": "00ee3ad9def7a4eaf113f54978530c4334191247d8a6ebe8059617d83f7257b5"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-04-30 20:05:01",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "HloRajat",
+        "amount": 800.0,
+        "merchant": "Amazion",
+        "merchant_category": "Utilities",
+        "hour": 20,
+        "risk_score": 11.5425,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:05:01",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00ee3ad9def7a4eaf113f54978530c4334191247d8a6ebe8059617d83f7257b5",
+    "nonce": 763,
+    "hash": "0032f3eabc2f8b9aa1c81bcaf690d5467f9121a00601bbeabe3371ba675fcf4b"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-04-30 20:05:33",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "HloRajat",
+        "amount": 3300.0,
+        "merchant": "amazin",
+        "merchant_category": "Healthcare",
+        "hour": 20,
+        "risk_score": 13.004999999999999,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:05:33",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0032f3eabc2f8b9aa1c81bcaf690d5467f9121a00601bbeabe3371ba675fcf4b",
+    "nonce": 1010,
+    "hash": "00a79b8f75b4e228a1c5add7fbcedc7c1c74d7f74e1d5d5f010866ccd90dfeca"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-04-30 20:18:48",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 10.035,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:48",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00a79b8f75b4e228a1c5add7fbcedc7c1c74d7f74e1d5d5f010866ccd90dfeca",
+    "nonce": 11,
+    "hash": "00d82cdc5a8d8c5233bcad945665e65441d164fa225f839787c7a975f54cc676"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-04-30 20:18:50",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 6.285,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:50",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00d82cdc5a8d8c5233bcad945665e65441d164fa225f839787c7a975f54cc676",
+    "nonce": 96,
+    "hash": "0036a25d745e4f30a62edc98171f1fda136a58171e6084240021f5e54ade5e18"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-04-30 20:18:52",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 6.285,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:52",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0036a25d745e4f30a62edc98171f1fda136a58171e6084240021f5e54ade5e18",
+    "nonce": 581,
+    "hash": "00e2097a701ec3dbe35763d3a3b9cb33b467c6af168957323b60dcfc0f9d0296"
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-04-30 20:18:54",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 11.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:54",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds"
+      }
+    ],
+    "previous_hash": "00e2097a701ec3dbe35763d3a3b9cb33b467c6af168957323b60dcfc0f9d0296",
+    "nonce": 79,
+    "hash": "008b1660b9ed92d08648848ebcb845865b2167424311b798a0383d637845c4ff"
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-04-30 20:18:55",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 11.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:55",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds"
+      }
+    ],
+    "previous_hash": "008b1660b9ed92d08648848ebcb845865b2167424311b798a0383d637845c4ff",
+    "nonce": 486,
+    "hash": "00310533882946db8259f945bbc528b57b4e0b3a9e4239647bf3b6b1c7d7428a"
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-04-30 20:18:57",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:57",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00310533882946db8259f945bbc528b57b4e0b3a9e4239647bf3b6b1c7d7428a",
+    "nonce": 3,
+    "hash": "0012f408c7b00112e03299d3a4f4b0a4da1e6232b6f7bab1f70c817da4f0b947"
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-04-30 20:18:59",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:18:59",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0012f408c7b00112e03299d3a4f4b0a4da1e6232b6f7bab1f70c817da4f0b947",
+    "nonce": 348,
+    "hash": "0068c1ddc059114201c69906155a34cb1603c3aba55b9c590d2fcacaa1137714"
+  },
+  {
+    "index": 10,
+    "timestamp": "2026-04-30 20:19:00",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:00",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0068c1ddc059114201c69906155a34cb1603c3aba55b9c590d2fcacaa1137714",
+    "nonce": 57,
+    "hash": "007821dd3784d7086e7247008d52f6645659f7869f2dfd124505cf969aab6ced"
+  },
+  {
+    "index": 11,
+    "timestamp": "2026-04-30 20:19:02",
+    "transactions": [
+      {
+        "tx_id": "TXN-01009",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:02",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "007821dd3784d7086e7247008d52f6645659f7869f2dfd124505cf969aab6ced",
+    "nonce": 39,
+    "hash": "0071e64a07e4b85832f5e2689ed848b628c13270a85a91dc1896cfa45da13ff3"
+  },
+  {
+    "index": 12,
+    "timestamp": "2026-04-30 20:19:03",
+    "transactions": [
+      {
+        "tx_id": "TXN-01010",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:03",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0071e64a07e4b85832f5e2689ed848b628c13270a85a91dc1896cfa45da13ff3",
+    "nonce": 102,
+    "hash": "004f737c4ad1fd0d831d90697b0760b0e6ed40fb92990035aabc59e5eb7c0a12"
+  },
+  {
+    "index": 13,
+    "timestamp": "2026-04-30 20:19:05",
+    "transactions": [
+      {
+        "tx_id": "TXN-01011",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:05",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "004f737c4ad1fd0d831d90697b0760b0e6ed40fb92990035aabc59e5eb7c0a12",
+    "nonce": 171,
+    "hash": "0095adeb06e4c84c7503261be8363af0ff2f16e3f26c73f058a8b3715088d756"
+  },
+  {
+    "index": 14,
+    "timestamp": "2026-04-30 20:19:07",
+    "transactions": [
+      {
+        "tx_id": "TXN-01012",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:07",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0095adeb06e4c84c7503261be8363af0ff2f16e3f26c73f058a8b3715088d756",
+    "nonce": 827,
+    "hash": "0059e2f0e7468396d9056929c5974ed9911484aacdbdcba0eae66097e500f47d"
+  },
+  {
+    "index": 15,
+    "timestamp": "2026-04-30 20:19:08",
+    "transactions": [
+      {
+        "tx_id": "TXN-01013",
+        "user_id": "HloRajat",
+        "amount": 500.0,
+        "merchant": "hlo",
+        "merchant_category": "Food & Beverage",
+        "hour": 20,
+        "risk_score": 26.271,
+        "status": "SAFE",
+        "timestamp": "2026-04-30 20:19:08",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0059e2f0e7468396d9056929c5974ed9911484aacdbdcba0eae66097e500f47d",
+    "nonce": 22,
+    "hash": "0031e69ab01e072dfc21c041d4ddd7a771c14f4468911f541c02b438648f96da"
+  },
+  {
+    "index": 16,
+    "timestamp": "2026-05-06 00:24:02",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "jurassic park",
+        "merchant_category": "E-Commerce",
+        "hour": 0,
+        "risk_score": 11.7225,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 00:24:02",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0031e69ab01e072dfc21c041d4ddd7a771c14f4468911f541c02b438648f96da",
+    "nonce": 366,
+    "hash": "0027b1dddb3a66afcdef084e64d08cc9a0e70de9c84de507c49187163b756def"
+  },
+  {
+    "index": 17,
+    "timestamp": "2026-05-06 14:04:15",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 8.879999999999999,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:04:15",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0027b1dddb3a66afcdef084e64d08cc9a0e70de9c84de507c49187163b756def",
+    "nonce": 214,
+    "hash": "004233c9703c1b2f02a87cad07ac543cd2faed3b342d95583eba412033956f34"
+  },
+  {
+    "index": 18,
+    "timestamp": "2026-05-06 14:04:16",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 44.94,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:04:16",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "004233c9703c1b2f02a87cad07ac543cd2faed3b342d95583eba412033956f34",
+    "nonce": 926,
+    "hash": "00714b584eb1dce30e7bb6bdee5a612740e301f2b77d6acfb524db6168140d8e"
+  },
+  {
+    "index": 19,
+    "timestamp": "2026-05-06 14:04:16",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 8.895,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:04:16",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00714b584eb1dce30e7bb6bdee5a612740e301f2b77d6acfb524db6168140d8e",
+    "nonce": 223,
+    "hash": "00c5ae94f88e321135d38b1825efb73a866958dd2dc52a7530e15eb3c91acedf"
+  },
+  {
+    "index": 20,
+    "timestamp": "2026-05-06 14:04:17",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 41.775000000000006,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:04:17",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00c5ae94f88e321135d38b1825efb73a866958dd2dc52a7530e15eb3c91acedf",
+    "nonce": 137,
+    "hash": "0074943cb9f1459bc6ed8d879a470a8c5806b2f810cd2ed17a5f269387f355b5"
+  },
+  {
+    "index": 21,
+    "timestamp": "2026-05-06 14:04:18",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 43.769999999999996,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:04:18",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0074943cb9f1459bc6ed8d879a470a8c5806b2f810cd2ed17a5f269387f355b5",
+    "nonce": 387,
+    "hash": "004607fd026b8b7cab6a21ad2de290f782eba3cb848d3ade3e2809bbcf5d0e03"
+  },
+  {
+    "index": 22,
+    "timestamp": "2026-05-06 14:04:19",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 44.94,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:04:19",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "004607fd026b8b7cab6a21ad2de290f782eba3cb848d3ade3e2809bbcf5d0e03",
+    "nonce": 24,
+    "hash": "00552046f7a8ce31347e9040155ff028d61371efb23e89261b5ecc4926e07b58"
+  },
+  {
+    "index": 23,
+    "timestamp": "2026-05-06 14:04:19",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 7.755,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:04:19",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00552046f7a8ce31347e9040155ff028d61371efb23e89261b5ecc4926e07b58",
+    "nonce": 538,
+    "hash": "00f4fe1b215230b04d07ffc8e75cdf86a64e4e5cccfe30d04828de7cb9923680"
+  },
+  {
+    "index": 24,
+    "timestamp": "2026-05-06 14:24:44",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "raj",
+        "amount": 4500.0,
+        "merchant": "buzzkill",
+        "merchant_category": "Wire Transfer",
+        "hour": 14,
+        "risk_score": 30.427500000000002,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:24:44",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00f4fe1b215230b04d07ffc8e75cdf86a64e4e5cccfe30d04828de7cb9923680",
+    "nonce": 23,
+    "hash": "00fa66b7910f9390ef199985485e59f9ebb0a66cf3fdaf25279dedd219e15925"
+  },
+  {
+    "index": 25,
+    "timestamp": "2026-05-06 14:25:02",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "raj",
+        "amount": 4600.0,
+        "merchant": "buzzkill",
+        "merchant_category": "Wire Transfer",
+        "hour": 14,
+        "risk_score": 26.677500000000002,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:25:02",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00fa66b7910f9390ef199985485e59f9ebb0a66cf3fdaf25279dedd219e15925",
+    "nonce": 516,
+    "hash": "0081a4e95f03b69f65c4bf0558704599b55496ee85f935aa6753077ea119bda3"
+  },
+  {
+    "index": 26,
+    "timestamp": "2026-05-06 14:46:41",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:41",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0081a4e95f03b69f65c4bf0558704599b55496ee85f935aa6753077ea119bda3",
+    "nonce": 1108,
+    "hash": "00b1099fcee390acad1e2ac3530b4c1b0df8a36a8ad312d6be25cd208e68b845"
+  },
+  {
+    "index": 27,
+    "timestamp": "2026-05-06 14:46:42",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 36.912499999999994,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:42",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00b1099fcee390acad1e2ac3530b4c1b0df8a36a8ad312d6be25cd208e68b845",
+    "nonce": 601,
+    "hash": "004333dc78e2d85e3d3879221ebb6477ac02b77d72d3401a3028b89c14a301ee"
+  },
+  {
+    "index": 28,
+    "timestamp": "2026-05-06 14:46:43",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:43",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "004333dc78e2d85e3d3879221ebb6477ac02b77d72d3401a3028b89c14a301ee",
+    "nonce": 187,
+    "hash": "00207aa1ee05ecbc759be7f7c04990aa4cc46b0cdf8f8a29482042844853f842"
+  },
+  {
+    "index": 29,
+    "timestamp": "2026-05-06 14:46:43",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 33.650000000000006,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:43",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00207aa1ee05ecbc759be7f7c04990aa4cc46b0cdf8f8a29482042844853f842",
+    "nonce": 198,
+    "hash": "007950e6821615bc33a9c29ac23a3acb478b723ead7899d7a462a06812d8005d"
+  },
+  {
+    "index": 30,
+    "timestamp": "2026-05-06 14:46:44",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:44",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "007950e6821615bc33a9c29ac23a3acb478b723ead7899d7a462a06812d8005d",
+    "nonce": 44,
+    "hash": "004bb950919cf6f9f3023e868b96a7308ba972d6198d14e49fd486a78faf1970"
+  },
+  {
+    "index": 31,
+    "timestamp": "2026-05-06 14:46:45",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 36.92,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:45",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "004bb950919cf6f9f3023e868b96a7308ba972d6198d14e49fd486a78faf1970",
+    "nonce": 74,
+    "hash": "003525a06f6a5eeda480258b0943de80bbf0e99be738e7e89edeecbe09b3a071"
+  },
+  {
+    "index": 32,
+    "timestamp": "2026-05-06 14:46:46",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:46",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "003525a06f6a5eeda480258b0943de80bbf0e99be738e7e89edeecbe09b3a071",
+    "nonce": 668,
+    "hash": "006bf1e92196620a7555a7abb2187d56a348cb0f5bb5ea2ebb8f1b72124bf753"
+  },
+  {
+    "index": 33,
+    "timestamp": "2026-05-06 14:46:49",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:49",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "006bf1e92196620a7555a7abb2187d56a348cb0f5bb5ea2ebb8f1b72124bf753",
+    "nonce": 268,
+    "hash": "008683c0b5f605fad6fcb9392d5bc5655033b887bfa9a72207511c7adcb6b350"
+  },
+  {
+    "index": 34,
+    "timestamp": "2026-05-06 14:46:50",
+    "transactions": [
+      {
+        "tx_id": "TXN-01009",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 36.912499999999994,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:50",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "008683c0b5f605fad6fcb9392d5bc5655033b887bfa9a72207511c7adcb6b350",
+    "nonce": 13,
+    "hash": "0051d31e62e98a49d4832ff2948daf61b48b6cd16e08a38d8f8f139637f4f62f"
+  },
+  {
+    "index": 35,
+    "timestamp": "2026-05-06 14:46:51",
+    "transactions": [
+      {
+        "tx_id": "TXN-01010",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:51",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0051d31e62e98a49d4832ff2948daf61b48b6cd16e08a38d8f8f139637f4f62f",
+    "nonce": 137,
+    "hash": "00867ec2a102364de8e9a891cefe58e075565dc93ac357acddbb5dd4089fd82d"
+  },
+  {
+    "index": 36,
+    "timestamp": "2026-05-06 14:46:52",
+    "transactions": [
+      {
+        "tx_id": "TXN-01011",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 33.650000000000006,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:52",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00867ec2a102364de8e9a891cefe58e075565dc93ac357acddbb5dd4089fd82d",
+    "nonce": 86,
+    "hash": "00d35b6653f1afc22a7af3f487fb97e775e89a3e16e16c8f895ec0e923a9ffa0"
+  },
+  {
+    "index": 37,
+    "timestamp": "2026-05-06 14:46:52",
+    "transactions": [
+      {
+        "tx_id": "TXN-01012",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:52",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00d35b6653f1afc22a7af3f487fb97e775e89a3e16e16c8f895ec0e923a9ffa0",
+    "nonce": 39,
+    "hash": "00839e72184da9f0e937c1c7f3d51d93935d0a1dd9fb7844444ed59cb4435ba0"
+  },
+  {
+    "index": 38,
+    "timestamp": "2026-05-06 14:46:53",
+    "transactions": [
+      {
+        "tx_id": "TXN-01013",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 36.92,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 14:46:53",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00839e72184da9f0e937c1c7f3d51d93935d0a1dd9fb7844444ed59cb4435ba0",
+    "nonce": 324,
+    "hash": "00027907e4cd16e028bf29af220ec727cf595ece778b4728e1421ff501b570c4"
+  },
+  {
+    "index": 39,
+    "timestamp": "2026-05-06 14:46:54",
+    "transactions": [
+      {
+        "tx_id": "TXN-01014",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 14:46:54",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00027907e4cd16e028bf29af220ec727cf595ece778b4728e1421ff501b570c4",
+    "nonce": 478,
+    "hash": "009f84312208086de7799d28adfb60cc952686e77ab34d9e38b28dd3074039d4"
+  },
+  {
+    "index": 40,
+    "timestamp": "2026-05-06 15:01:11",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:11",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "009f84312208086de7799d28adfb60cc952686e77ab34d9e38b28dd3074039d4",
+    "nonce": 357,
+    "hash": "00675374aeb2b007583ebb3873e0b04b9f2426fb578cc4dc96e31bc55cc1caec"
+  },
+  {
+    "index": 41,
+    "timestamp": "2026-05-06 15:01:12",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 36.912499999999994,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:12",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00675374aeb2b007583ebb3873e0b04b9f2426fb578cc4dc96e31bc55cc1caec",
+    "nonce": 267,
+    "hash": "0008cf5e3e368ed2785b79393d3386c6ca300a054dfc52fa37838375ebde6c79"
+  },
+  {
+    "index": 42,
+    "timestamp": "2026-05-06 15:01:12",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:12",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0008cf5e3e368ed2785b79393d3386c6ca300a054dfc52fa37838375ebde6c79",
+    "nonce": 202,
+    "hash": "00892ec57c4e30e7ff02205b819d146be41fd58c4d9a121068a00e7d75fa744e"
+  },
+  {
+    "index": 43,
+    "timestamp": "2026-05-06 15:01:13",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 28.650000000000002,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:13",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00892ec57c4e30e7ff02205b819d146be41fd58c4d9a121068a00e7d75fa744e",
+    "nonce": 102,
+    "hash": "0068fa7c465edc277eab4fcc00f5dd08cff8f212602f85e297c0b0e55d0eb480"
+  },
+  {
+    "index": 44,
+    "timestamp": "2026-05-06 15:01:14",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:14",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0068fa7c465edc277eab4fcc00f5dd08cff8f212602f85e297c0b0e55d0eb480",
+    "nonce": 60,
+    "hash": "001b6f7d438a4459af0b12b56162b8e9897239ee0312d6ee2d8d8920faaf99fd"
+  },
+  {
+    "index": 45,
+    "timestamp": "2026-05-06 15:01:15",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 36.92,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:15",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "001b6f7d438a4459af0b12b56162b8e9897239ee0312d6ee2d8d8920faaf99fd",
+    "nonce": 124,
+    "hash": "0084997216c90eecf6e982510d8eae0085a7362616c5c901e38e76cf0bb22e65"
+  },
+  {
+    "index": 46,
+    "timestamp": "2026-05-06 15:01:15",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:15",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0084997216c90eecf6e982510d8eae0085a7362616c5c901e38e76cf0bb22e65",
+    "nonce": 125,
+    "hash": "00014cc117fa74c96ac2f157ead7f750886499fa6981b43ab178cc7ad287be0c"
+  },
+  {
+    "index": 47,
+    "timestamp": "2026-05-06 15:01:17",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:17",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00014cc117fa74c96ac2f157ead7f750886499fa6981b43ab178cc7ad287be0c",
+    "nonce": 757,
+    "hash": "0088a6f2c834d3c37c615cde89dc3f7c65a3ff5897a8a7c09cf2a33f2167f20f"
+  },
+  {
+    "index": 48,
+    "timestamp": "2026-05-06 15:01:18",
+    "transactions": [
+      {
+        "tx_id": "TXN-01009",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 36.912499999999994,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:18",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0088a6f2c834d3c37c615cde89dc3f7c65a3ff5897a8a7c09cf2a33f2167f20f",
+    "nonce": 17,
+    "hash": "00b7226c0f7be44fc557da9f80748d289dd8a9f78dced0dde05503469273e347"
+  },
+  {
+    "index": 49,
+    "timestamp": "2026-05-06 15:01:19",
+    "transactions": [
+      {
+        "tx_id": "TXN-01010",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:19",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00b7226c0f7be44fc557da9f80748d289dd8a9f78dced0dde05503469273e347",
+    "nonce": 378,
+    "hash": "00f63276b927b3b563fd015c2156429ec8444e327da87b1f45bcfbba2799ce2e"
+  },
+  {
+    "index": 50,
+    "timestamp": "2026-05-06 15:01:20",
+    "transactions": [
+      {
+        "tx_id": "TXN-01011",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 28.650000000000002,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:20",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00f63276b927b3b563fd015c2156429ec8444e327da87b1f45bcfbba2799ce2e",
+    "nonce": 254,
+    "hash": "009fbf619bb70e5bb8234b1f68e2920d3bc8a544abc61de103bb48706c20d87d"
+  },
+  {
+    "index": 51,
+    "timestamp": "2026-05-06 15:01:20",
+    "transactions": [
+      {
+        "tx_id": "TXN-01012",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:20",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "009fbf619bb70e5bb8234b1f68e2920d3bc8a544abc61de103bb48706c20d87d",
+    "nonce": 4,
+    "hash": "00e5c5494c2bf1e11cd6fd36dc078af5c9d4f0ce9b7e8509014da9ea54b53c57"
+  },
+  {
+    "index": 52,
+    "timestamp": "2026-05-06 15:01:21",
+    "transactions": [
+      {
+        "tx_id": "TXN-01013",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 36.92,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:21",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00e5c5494c2bf1e11cd6fd36dc078af5c9d4f0ce9b7e8509014da9ea54b53c57",
+    "nonce": 225,
+    "hash": "00e9f61f7f6797b03db263cfbc46f8d77edd0f9eae477067e045b4d876bd350f"
+  },
+  {
+    "index": 53,
+    "timestamp": "2026-05-06 15:01:22",
+    "transactions": [
+      {
+        "tx_id": "TXN-01014",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:22",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00e9f61f7f6797b03db263cfbc46f8d77edd0f9eae477067e045b4d876bd350f",
+    "nonce": 96,
+    "hash": "00d6046c5ea9d7f752e94060fb0f73b44d0e497e7735400c347f88d67f35a017"
+  },
+  {
+    "index": 54,
+    "timestamp": "2026-05-06 15:01:29",
+    "transactions": [
+      {
+        "tx_id": "TXN-01015",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:29",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00d6046c5ea9d7f752e94060fb0f73b44d0e497e7735400c347f88d67f35a017",
+    "nonce": 33,
+    "hash": "00acfb482b27e13efcb13d1fbb5f707b57f1d336d79f0cec4b56447908146e0e"
+  },
+  {
+    "index": 55,
+    "timestamp": "2026-05-06 15:01:30",
+    "transactions": [
+      {
+        "tx_id": "TXN-01016",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 36.912499999999994,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:30",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00acfb482b27e13efcb13d1fbb5f707b57f1d336d79f0cec4b56447908146e0e",
+    "nonce": 11,
+    "hash": "00a88c3620ef1b2b0764a3d1f13c336cad928ec6907cd4edfaa356a3bfc4189d"
+  },
+  {
+    "index": 56,
+    "timestamp": "2026-05-06 15:01:31",
+    "transactions": [
+      {
+        "tx_id": "TXN-01017",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:31",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00a88c3620ef1b2b0764a3d1f13c336cad928ec6907cd4edfaa356a3bfc4189d",
+    "nonce": 352,
+    "hash": "00de5b51d21940c967db12e4d1508ffe26c76f833e785b5ed5e72c07e728421d"
+  },
+  {
+    "index": 57,
+    "timestamp": "2026-05-06 15:01:32",
+    "transactions": [
+      {
+        "tx_id": "TXN-01018",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 28.650000000000002,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:32",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00de5b51d21940c967db12e4d1508ffe26c76f833e785b5ed5e72c07e728421d",
+    "nonce": 602,
+    "hash": "0012c247b8b66944dc45f2c260749ea514431d4298e21c87edfd0f11a65e542a"
+  },
+  {
+    "index": 58,
+    "timestamp": "2026-05-06 15:01:32",
+    "transactions": [
+      {
+        "tx_id": "TXN-01019",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:32",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0012c247b8b66944dc45f2c260749ea514431d4298e21c87edfd0f11a65e542a",
+    "nonce": 256,
+    "hash": "00d2648ba817e6c8269757c3b5e9c52518618b48703d96117542ddf27afdca25"
+  },
+  {
+    "index": 59,
+    "timestamp": "2026-05-06 15:01:33",
+    "transactions": [
+      {
+        "tx_id": "TXN-01020",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 36.92,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:01:33",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00d2648ba817e6c8269757c3b5e9c52518618b48703d96117542ddf27afdca25",
+    "nonce": 158,
+    "hash": "0026fb25fb995bd338e4f5579b04ebe46fa47c1d3bbc3f490f65b96111c2e7f3"
+  },
+  {
+    "index": 60,
+    "timestamp": "2026-05-06 15:01:34",
+    "transactions": [
+      {
+        "tx_id": "TXN-01021",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:01:34",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0026fb25fb995bd338e4f5579b04ebe46fa47c1d3bbc3f490f65b96111c2e7f3",
+    "nonce": 270,
+    "hash": "00e366c3d13562af9c4d157d07254b0da07bcff04138084a0f806d00747677a6"
+  },
+  {
+    "index": 61,
+    "timestamp": "2026-05-06 15:13:16",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 10.68,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:16",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00e366c3d13562af9c4d157d07254b0da07bcff04138084a0f806d00747677a6",
+    "nonce": 934,
+    "hash": "0012d7c2fb0a068a2e56896eb3b2712103629e9252d31534ed25e3beca133604"
+  },
+  {
+    "index": 62,
+    "timestamp": "2026-05-06 15:13:18",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 6.93,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:18",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "0012d7c2fb0a068a2e56896eb3b2712103629e9252d31534ed25e3beca133604",
+    "nonce": 138,
+    "hash": "00879cd8468795b6d6c376aac8c6cb760ed2e99795133ab0f63fb0a83bf99900"
+  },
+  {
+    "index": 63,
+    "timestamp": "2026-05-06 15:13:20",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 11.658000000000001,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:20",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds"
+      }
+    ],
+    "previous_hash": "00879cd8468795b6d6c376aac8c6cb760ed2e99795133ab0f63fb0a83bf99900",
+    "nonce": 486,
+    "hash": "0097aa6b4a3cf23d486998eba13e719e43de32b3ef9cdeba11d45ee86d699fcc"
+  },
+  {
+    "index": 64,
+    "timestamp": "2026-05-06 15:13:22",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 11.658000000000001,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:22",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds"
+      }
+    ],
+    "previous_hash": "0097aa6b4a3cf23d486998eba13e719e43de32b3ef9cdeba11d45ee86d699fcc",
+    "nonce": 573,
+    "hash": "0079a29a1d5f72cdf4a7632c66812c0be477c18dfb8691b335ff1c8b21b2f520"
+  },
+  {
+    "index": 65,
+    "timestamp": "2026-05-06 15:13:23",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:23",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0079a29a1d5f72cdf4a7632c66812c0be477c18dfb8691b335ff1c8b21b2f520",
+    "nonce": 461,
+    "hash": "00573938b551a7f7e861cb82c1fcf8dac83c4d42d94f3ccf6164dd753f102350"
+  },
+  {
+    "index": 66,
+    "timestamp": "2026-05-06 15:13:25",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:25",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00573938b551a7f7e861cb82c1fcf8dac83c4d42d94f3ccf6164dd753f102350",
+    "nonce": 47,
+    "hash": "00edad1a827cda5fd922d5476135f86241c80ba3c3b2193007980d01473c9f1a"
+  },
+  {
+    "index": 67,
+    "timestamp": "2026-05-06 15:13:26",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:26",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00edad1a827cda5fd922d5476135f86241c80ba3c3b2193007980d01473c9f1a",
+    "nonce": 649,
+    "hash": "0014ea8d4b96234da1b439d839156f4353b4d103903e5fca2cd71766f3867588"
+  },
+  {
+    "index": 68,
+    "timestamp": "2026-05-06 15:13:28",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:28",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "0014ea8d4b96234da1b439d839156f4353b4d103903e5fca2cd71766f3867588",
+    "nonce": 531,
+    "hash": "00aa570734fa7b2a84e5b3b8892d2113f71b5653401cf273bfe246b66cb2e53a"
+  },
+  {
+    "index": 69,
+    "timestamp": "2026-05-06 15:13:30",
+    "transactions": [
+      {
+        "tx_id": "TXN-01009",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:30",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00aa570734fa7b2a84e5b3b8892d2113f71b5653401cf273bfe246b66cb2e53a",
+    "nonce": 41,
+    "hash": "00e6caec9a2e818c64d8e723e39625cad4826e822f4c1e49145f7d311606f418"
+  },
+  {
+    "index": 70,
+    "timestamp": "2026-05-06 15:13:38",
+    "transactions": [
+      {
+        "tx_id": "TXN-01010",
+        "user_id": "raj",
+        "amount": 500.0,
+        "merchant": "hipo",
+        "merchant_category": "Food & Beverage",
+        "hour": 15,
+        "risk_score": 26.657999999999998,
+        "status": "SAFE",
+        "timestamp": "2026-05-06 15:13:38",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00e6caec9a2e818c64d8e723e39625cad4826e822f4c1e49145f7d311606f418",
+    "nonce": 697,
+    "hash": "00e55817d03ceaa55d1987c3891def0a2dd9ae989a327967901d8a88f0c550d2"
+  },
+  {
+    "index": 71,
+    "timestamp": "2026-05-06 15:14:54",
+    "transactions": [
+      {
+        "tx_id": "TXN-01011",
+        "user_id": "raj",
+        "amount": 1500.0,
+        "merchant": "hipo",
+        "merchant_category": "Wire Transfer",
+        "hour": 15,
+        "risk_score": 39.339,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-06 15:14:54",
+        "velocity_triggered": true,
+        "velocity_reason": "5 transactions in 5 minutes"
+      }
+    ],
+    "previous_hash": "00e55817d03ceaa55d1987c3891def0a2dd9ae989a327967901d8a88f0c550d2",
+    "nonce": 32,
+    "hash": "00f33a81d3358e86395f84ce43d928634ad2172f8ccac2507b5dd088b6c25fed"
+  },
+  {
+    "index": 72,
+    "timestamp": "2026-05-08 14:44:31",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "raj",
+        "amount": 5400.0,
+        "merchant": "john",
+        "merchant_category": "Entertainment",
+        "hour": 14,
+        "risk_score": 17.4465,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:44:31",
+        "velocity_triggered": true,
+        "velocity_reason": "\u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "00f33a81d3358e86395f84ce43d928634ad2172f8ccac2507b5dd088b6c25fed",
+    "nonce": 173,
+    "hash": "00b5edad0d176c309c0994dc1029b8c550503f67101d60d782c14e39e7dc0589"
+  },
+  {
+    "index": 73,
+    "timestamp": "2026-05-08 14:46:27",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:46:27",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00b5edad0d176c309c0994dc1029b8c550503f67101d60d782c14e39e7dc0589",
+    "nonce": 337,
+    "hash": "009daac15d60f15bacf72ea3dd0b65dbb37d7889f76c691752d02fd5a0d978b5"
+  },
+  {
+    "index": 74,
+    "timestamp": "2026-05-08 14:46:28",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 31.6475,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:46:28",
+        "velocity_triggered": true,
+        "velocity_reason": "\u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "009daac15d60f15bacf72ea3dd0b65dbb37d7889f76c691752d02fd5a0d978b5",
+    "nonce": 69,
+    "hash": "00441d4c6548d916107ff98fc1d87e185ba765909da70d8f694ae9514c68db86"
+  },
+  {
+    "index": 75,
+    "timestamp": "2026-05-08 14:46:28",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:46:28",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00441d4c6548d916107ff98fc1d87e185ba765909da70d8f694ae9514c68db86",
+    "nonce": 88,
+    "hash": "00b1a1bac5fabedd4cca084b600c7b65c769cf838035045bdc924e41ba6903bd"
+  },
+  {
+    "index": 76,
+    "timestamp": "2026-05-08 14:46:29",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 32.19,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:46:29",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 \u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "00b1a1bac5fabedd4cca084b600c7b65c769cf838035045bdc924e41ba6903bd",
+    "nonce": 389,
+    "hash": "00861bb683d64406442056f693d53c4b246ca32484a42a3b7517380f9981baaf"
+  },
+  {
+    "index": 77,
+    "timestamp": "2026-05-08 14:46:30",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-08 14:46:30",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00861bb683d64406442056f693d53c4b246ca32484a42a3b7517380f9981baaf",
+    "nonce": 210,
+    "hash": "00b3bf372b443f80dbdeb4cd35973028d68ac4d625c5cf0658fc9f030b136b0b"
+  },
+  {
+    "index": 78,
+    "timestamp": "2026-05-08 14:46:30",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 39.152,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-08 14:46:30",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 \u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "00b3bf372b443f80dbdeb4cd35973028d68ac4d625c5cf0658fc9f030b136b0b",
+    "nonce": 5,
+    "hash": "00d078ad86c7ebafd1c30fe4aef46288b22c353a556920d5d3bca997ffc35e5b"
+  },
+  {
+    "index": 79,
+    "timestamp": "2026-05-08 14:46:31",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-08 14:46:31",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00d078ad86c7ebafd1c30fe4aef46288b22c353a556920d5d3bca997ffc35e5b",
+    "nonce": 44,
+    "hash": "00a88c609c914580ea044fa0022e72345a13b5c8877feb667518f2d098c45fcd"
+  },
+  {
+    "index": 80,
+    "timestamp": "2026-05-11 08:16:00",
+    "transactions": [
+      {
+        "tx_id": "TXN-01001",
+        "user_id": "prefinal",
+        "amount": 500.0,
+        "merchant": "bse",
+        "merchant_category": "Wire Transfer",
+        "hour": 8,
+        "risk_score": 16.4625,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:16:00",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00a88c609c914580ea044fa0022e72345a13b5c8877feb667518f2d098c45fcd",
+    "nonce": 238,
+    "hash": "003744d0bdf16ce80f2a8d244dd01f848b59a9625bd6c74ba1e0c05c20beca4b"
+  },
+  {
+    "index": 81,
+    "timestamp": "2026-05-11 08:18:07",
+    "transactions": [
+      {
+        "tx_id": "TXN-01002",
+        "user_id": "prefinal",
+        "amount": 500.0,
+        "merchant": "pretest",
+        "merchant_category": "Wire Transfer",
+        "hour": 8,
+        "risk_score": 95.0,
+        "status": "FRAUD",
+        "timestamp": "2026-05-11 08:18:07",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "003744d0bdf16ce80f2a8d244dd01f848b59a9625bd6c74ba1e0c05c20beca4b",
+    "nonce": 246,
+    "hash": "003916609e8f142ace970ccdea811b503e4cf9ecb066ec00458559edf8d6141d"
+  },
+  {
+    "index": 82,
+    "timestamp": "2026-05-11 08:19:39",
+    "transactions": [
+      {
+        "tx_id": "TXN-01003",
+        "user_id": "prefinal",
+        "amount": 25670.0,
+        "merchant": "newmerchant",
+        "merchant_category": "Wire Transfer",
+        "hour": 8,
+        "risk_score": 42.0225,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-11 08:19:39",
+        "velocity_triggered": true,
+        "velocity_reason": "\u20b910,000+ spent in 60 seconds \u00b7 \u20b925,000+ spent in 5 minutes"
+      }
+    ],
+    "previous_hash": "003916609e8f142ace970ccdea811b503e4cf9ecb066ec00458559edf8d6141d",
+    "nonce": 73,
+    "hash": "00be60f27e99ab5d578d42af82fb57b85352b6ef3650e12d466837f367051fdf"
+  },
+  {
+    "index": 83,
+    "timestamp": "2026-05-11 08:20:21",
+    "transactions": [
+      {
+        "tx_id": "TXN-01004",
+        "user_id": "USR-0042",
+        "amount": 42.5,
+        "merchant": "Starbucks",
+        "merchant_category": "Food & Beverage",
+        "hour": 9,
+        "risk_score": 5.6025,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:20:21",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00be60f27e99ab5d578d42af82fb57b85352b6ef3650e12d466837f367051fdf",
+    "nonce": 733,
+    "hash": "002a798d64abf3428255a4b13a8575d4f4251484787b5e67887a4f4426300d9a"
+  },
+  {
+    "index": 84,
+    "timestamp": "2026-05-11 08:20:22",
+    "transactions": [
+      {
+        "tx_id": "TXN-01005",
+        "user_id": "USR-0042",
+        "amount": 9999.0,
+        "merchant": "Unknown Offshore Ltd.",
+        "merchant_category": "Wire Transfer",
+        "hour": 3,
+        "risk_score": 31.6475,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:20:22",
+        "velocity_triggered": true,
+        "velocity_reason": "\u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "002a798d64abf3428255a4b13a8575d4f4251484787b5e67887a4f4426300d9a",
+    "nonce": 135,
+    "hash": "003cb45312189418f88bbc68832a3b8d5ebd804c11bc26d8c8db6f954aeb219d"
+  },
+  {
+    "index": 85,
+    "timestamp": "2026-05-11 08:20:23",
+    "transactions": [
+      {
+        "tx_id": "TXN-01006",
+        "user_id": "USR-0071",
+        "amount": 128.99,
+        "merchant": "Amazon",
+        "merchant_category": "E-Commerce",
+        "hour": 14,
+        "risk_score": 5.715,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:20:23",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "003cb45312189418f88bbc68832a3b8d5ebd804c11bc26d8c8db6f954aeb219d",
+    "nonce": 204,
+    "hash": "00271c3eac78795564cc31d714f352608058bf698aed493fe4438b40725a06c5"
+  },
+  {
+    "index": 86,
+    "timestamp": "2026-05-11 08:20:24",
+    "transactions": [
+      {
+        "tx_id": "TXN-01007",
+        "user_id": "USR-0042",
+        "amount": 0.5,
+        "merchant": "Unknown Merchant",
+        "merchant_category": "ATM Withdrawal",
+        "hour": 23,
+        "risk_score": 32.19,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:20:24",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 \u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "00271c3eac78795564cc31d714f352608058bf698aed493fe4438b40725a06c5",
+    "nonce": 102,
+    "hash": "007d5e0461bc34e1d0a7e9a9f2ee5493b54602fbecff3dd5576674304cc587af"
+  },
+  {
+    "index": 87,
+    "timestamp": "2026-05-11 08:20:24",
+    "transactions": [
+      {
+        "tx_id": "TXN-01008",
+        "user_id": "USR-0118",
+        "amount": 4200.0,
+        "merchant": "Crypto Exchange Pro",
+        "merchant_category": "Crypto Exchange",
+        "hour": 2,
+        "risk_score": 35.675,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-11 08:20:24",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "007d5e0461bc34e1d0a7e9a9f2ee5493b54602fbecff3dd5576674304cc587af",
+    "nonce": 202,
+    "hash": "00e9f88639a8d498ae8eff65ecff2bd8f9ae6825b4ae7535057bff77e9091879"
+  },
+  {
+    "index": 88,
+    "timestamp": "2026-05-11 08:20:25",
+    "transactions": [
+      {
+        "tx_id": "TXN-01009",
+        "user_id": "USR-0042",
+        "amount": 5500.0,
+        "merchant": "Offshore Wire Services",
+        "merchant_category": "Wire Transfer",
+        "hour": 4,
+        "risk_score": 39.152,
+        "status": "SUSPICIOUS",
+        "timestamp": "2026-05-11 08:20:25",
+        "velocity_triggered": true,
+        "velocity_reason": "3 transactions in 60 seconds \u00b7 \u20b910,000+ spent in 60 seconds"
+      }
+    ],
+    "previous_hash": "00e9f88639a8d498ae8eff65ecff2bd8f9ae6825b4ae7535057bff77e9091879",
+    "nonce": 9,
+    "hash": "00c4676a27b3ff0d9d55b020155fb6c4bec1d45ca98da8a28c6e4b96c17649c7"
+  },
+  {
+    "index": 89,
+    "timestamp": "2026-05-11 08:20:26",
+    "transactions": [
+      {
+        "tx_id": "TXN-01010",
+        "user_id": "USR-0305",
+        "amount": 18.0,
+        "merchant": "Netflix",
+        "merchant_category": "Entertainment",
+        "hour": 20,
+        "risk_score": 4.59,
+        "status": "SAFE",
+        "timestamp": "2026-05-11 08:20:26",
+        "velocity_triggered": false,
+        "velocity_reason": null
+      }
+    ],
+    "previous_hash": "00c4676a27b3ff0d9d55b020155fb6c4bec1d45ca98da8a28c6e4b96c17649c7",
+    "nonce": 43,
+    "hash": "00996aba7dbdc08bcfb96d2a525f2fc1e2340709460651ab3b3eb8d1402fbbd1"
+  }
+]

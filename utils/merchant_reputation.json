@@ -1,0 +1,333 @@
+{
+  "blacklist": [],
+  "whitelist": [
+    "test sop",
+    "merchantx",
+    "moneymaker",
+    "pretest"
+  ],
+  "merchant_stats": {
+    "test sop": {
+      "merchant": "Test Sop",
+      "total_txns": 12,
+      "fraud_count": 2,
+      "suspicious_count": 1,
+      "safe_count": 9,
+      "total_amount": 6000.0,
+      "first_seen": "2026-03-07 00:41:48",
+      "last_seen": "2026-03-07 19:14:50"
+    },
+    "string": {
+      "merchant": "string",
+      "total_txns": 3,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 3,
+      "total_amount": 0.0,
+      "first_seen": "2026-03-07 00:42:37",
+      "last_seen": "2026-03-13 23:35:35"
+    },
+    "rahul": {
+      "merchant": "Rahul",
+      "total_txns": 25,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 25,
+      "total_amount": 12500.0,
+      "first_seen": "2026-03-07 19:09:35",
+      "last_seen": "2026-03-13 23:48:22"
+    },
+    "unknown offshore wire": {
+      "merchant": "Unknown Offshore Wire",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 1,
+      "safe_count": 0,
+      "total_amount": 40000.0,
+      "first_seen": "2026-03-07 19:12:35",
+      "last_seen": "2026-03-07 19:12:35"
+    },
+    "amit": {
+      "merchant": "amit",
+      "total_txns": 35,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 35,
+      "total_amount": 17230.0,
+      "first_seen": "2026-03-13 23:26:45",
+      "last_seen": "2026-03-13 23:35:57"
+    },
+    "dev": {
+      "merchant": "dev",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 460.0,
+      "first_seen": "2026-03-13 23:27:42",
+      "last_seen": "2026-03-13 23:27:42"
+    },
+    "merchantx": {
+      "merchant": "merchantx",
+      "total_txns": 2,
+      "fraud_count": 1,
+      "suspicious_count": 1,
+      "safe_count": 0,
+      "total_amount": 960.0,
+      "first_seen": "2026-03-13 23:28:49",
+      "last_seen": "2026-03-13 23:30:12"
+    },
+    "airtel": {
+      "merchant": "Airtel",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 560.0,
+      "first_seen": "2026-03-14 09:51:12",
+      "last_seen": "2026-03-14 09:51:12"
+    },
+    "ux": {
+      "merchant": "ux",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 560.0,
+      "first_seen": "2026-03-14 09:52:06",
+      "last_seen": "2026-03-14 09:52:06"
+    },
+    "12": {
+      "merchant": "12",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 560.0,
+      "first_seen": "2026-03-14 09:52:19",
+      "last_seen": "2026-03-14 09:52:19"
+    },
+    "ui": {
+      "merchant": "ui",
+      "total_txns": 2,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 2,
+      "total_amount": 1120.0,
+      "first_seen": "2026-03-14 09:52:32",
+      "last_seen": "2026-03-14 09:52:38"
+    },
+    "moneymaker": {
+      "merchant": "moneymaker",
+      "total_txns": 3,
+      "fraud_count": 1,
+      "suspicious_count": 1,
+      "safe_count": 1,
+      "total_amount": 3560.0,
+      "first_seen": "2026-03-14 09:52:59",
+      "last_seen": "2026-03-14 09:58:00"
+    },
+    "casino royale": {
+      "merchant": "casino royale",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 1,
+      "safe_count": 0,
+      "total_amount": 1200.0,
+      "first_seen": "2026-03-14 09:56:09",
+      "last_seen": "2026-03-14 09:56:09"
+    },
+    "apollo": {
+      "merchant": "apollo",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 1200.0,
+      "first_seen": "2026-03-14 09:58:47",
+      "last_seen": "2026-03-14 09:58:47"
+    },
+    "amazion": {
+      "merchant": "Amazion",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 800.0,
+      "first_seen": "2026-04-30 20:05:01",
+      "last_seen": "2026-04-30 20:05:01"
+    },
+    "amazin": {
+      "merchant": "amazin",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 3300.0,
+      "first_seen": "2026-04-30 20:05:33",
+      "last_seen": "2026-04-30 20:05:33"
+    },
+    "hlo": {
+      "merchant": "hlo",
+      "total_txns": 13,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 13,
+      "total_amount": 6500.0,
+      "first_seen": "2026-04-30 20:18:48",
+      "last_seen": "2026-04-30 20:19:08"
+    },
+    "jurassic park": {
+      "merchant": "jurassic park",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 500.0,
+      "first_seen": "2026-05-06 00:24:02",
+      "last_seen": "2026-05-06 00:24:02"
+    },
+    "starbucks": {
+      "merchant": "Starbucks",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 8,
+      "total_amount": 340.0,
+      "first_seen": "2026-05-06 14:04:15",
+      "last_seen": "2026-05-11 08:20:21",
+      "user_flags": []
+    },
+    "unknown offshore ltd.": {
+      "merchant": "Unknown Offshore Ltd.",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 6,
+      "safe_count": 2,
+      "total_amount": 79992.0,
+      "first_seen": "2026-05-06 14:04:16",
+      "last_seen": "2026-05-11 08:20:22",
+      "user_flags": []
+    },
+    "amazon": {
+      "merchant": "Amazon",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 8,
+      "total_amount": 1031.92,
+      "first_seen": "2026-05-06 14:04:16",
+      "last_seen": "2026-05-11 08:20:23",
+      "user_flags": []
+    },
+    "unknown merchant": {
+      "merchant": "Unknown Merchant",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 1,
+      "safe_count": 7,
+      "total_amount": 4.0,
+      "first_seen": "2026-05-06 14:04:17",
+      "last_seen": "2026-05-11 08:20:24",
+      "user_flags": []
+    },
+    "crypto exchange pro": {
+      "merchant": "Crypto Exchange Pro",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 8,
+      "safe_count": 0,
+      "total_amount": 33600.0,
+      "first_seen": "2026-05-06 14:04:18",
+      "last_seen": "2026-05-11 08:20:24",
+      "user_flags": []
+    },
+    "offshore wire services": {
+      "merchant": "Offshore Wire Services",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 8,
+      "safe_count": 0,
+      "total_amount": 44000.0,
+      "first_seen": "2026-05-06 14:04:19",
+      "last_seen": "2026-05-11 08:20:25",
+      "user_flags": []
+    },
+    "netflix": {
+      "merchant": "Netflix",
+      "total_txns": 8,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 8,
+      "total_amount": 144.0,
+      "first_seen": "2026-05-06 14:04:19",
+      "last_seen": "2026-05-11 08:20:26",
+      "user_flags": []
+    },
+    "buzzkill": {
+      "merchant": "buzzkill",
+      "total_txns": 2,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 2,
+      "total_amount": 9100.0,
+      "first_seen": "2026-05-06 14:24:44",
+      "last_seen": "2026-05-06 14:25:02"
+    },
+    "hipo": {
+      "merchant": "hipo",
+      "total_txns": 11,
+      "fraud_count": 0,
+      "suspicious_count": 1,
+      "safe_count": 10,
+      "total_amount": 6500.0,
+      "first_seen": "2026-05-06 15:13:16",
+      "last_seen": "2026-05-06 15:14:54",
+      "user_flags": []
+    },
+    "john": {
+      "merchant": "john",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 5400.0,
+      "first_seen": "2026-05-08 14:44:31",
+      "last_seen": "2026-05-08 14:44:31",
+      "user_flags": []
+    },
+    "bse": {
+      "merchant": "bse",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 0,
+      "safe_count": 1,
+      "total_amount": 500.0,
+      "first_seen": "2026-05-11 08:16:00",
+      "last_seen": "2026-05-11 08:16:00",
+      "user_flags": []
+    },
+    "pretest": {
+      "merchant": "pretest",
+      "total_txns": 1,
+      "fraud_count": 1,
+      "suspicious_count": 0,
+      "safe_count": 0,
+      "total_amount": 500.0,
+      "first_seen": "2026-05-11 08:18:07",
+      "last_seen": "2026-05-11 08:18:07",
+      "user_flags": []
+    },
+    "newmerchant": {
+      "merchant": "newmerchant",
+      "total_txns": 1,
+      "fraud_count": 0,
+      "suspicious_count": 1,
+      "safe_count": 0,
+      "total_amount": 25670.0,
+      "first_seen": "2026-05-11 08:19:39",
+      "last_seen": "2026-05-11 08:19:39",
+      "user_flags": []
+    }
+  }
+}
